@@ -1,11 +1,12 @@
-package com.rafaelm.white_label
+package com.rafaelm.white_label.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupWithNavController
+import com.rafaelm.white_label.R
 import com.rafaelm.white_label.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
